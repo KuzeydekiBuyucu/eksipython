@@ -3,7 +3,6 @@ eksisozlukten entry cekmeye yarayan python scripti
 ```python3
 >>> import eksi
 >>> firstEntry = eksi.Entry(1)
->>> firstEntry
 >>> print(firstEntry.url)
 https://www.eksisozluk.com/entry/1
 >>> print(firstEntry.title)
