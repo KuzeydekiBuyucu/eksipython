@@ -1,6 +1,6 @@
 # eksipython
 eksisozlukten entry cekmeye yarayan python scripti
-
+```python3
 >>> import eksi
 >>> firstEntry = eksi.Entry(1)
 >>> firstEntry
@@ -14,3 +14,4 @@ https://www.eksisozluk.com/entry/1
 ['ssg']
 >>> print(firstEntry.entrytext)
 ['gitar calmak icin kullanilan minik plastik garip nesne.']
+```
